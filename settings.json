@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FallenBug532515-YnU4.aternos.me",
-    "port": 13744,
+    "ip": "FallenBug532515-YnU4.aternos.me:13744",
+    "port":13744 ,
     "version": "",
     "try-creative": false
   },
